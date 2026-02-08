@@ -1,0 +1,686 @@
+[
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:33:35",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 9,
+        "severity": "INFO",
+        "timestamp": "00:33:38",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:33:41",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:33:44",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:33:47",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:33:50",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:33:53",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:33:56",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:33:59",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:02",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:34:05",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:34:08",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:34:11",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:34:14",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:34:17",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:20",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 17,
+        "severity": "INFO",
+        "timestamp": "00:34:23",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:26",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:29",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:32",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:35",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:38",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:41",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:44",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:47",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:50",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:53",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:34:56",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 3,
+        "severity": "INFO",
+        "timestamp": "00:34:59",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:35:02",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:35:05",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:35:08",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:11",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:14",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:17",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "34.120.208.123",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 32,
+        "severity": "WARNING",
+        "timestamp": "00:35:20",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "34.120.208.123",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 34,
+        "severity": "WARNING",
+        "timestamp": "00:35:20",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "34.120.208.123",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 36,
+        "severity": "WARNING",
+        "timestamp": "00:35:20",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "34.120.208.123",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 38,
+        "severity": "WARNING",
+        "timestamp": "00:35:20",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "34.120.208.123",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 36,
+        "severity": "WARNING",
+        "timestamp": "00:35:20",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "34.120.208.123",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 38,
+        "severity": "WARNING",
+        "timestamp": "00:35:20",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 25,
+        "severity": "INFO",
+        "timestamp": "00:35:21",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:24",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:27",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:30",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:33",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:36",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:39",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:35:42",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 3,
+        "severity": "INFO",
+        "timestamp": "00:35:45",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 3,
+        "severity": "INFO",
+        "timestamp": "00:35:48",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:51",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 32,
+        "severity": "WARNING",
+        "timestamp": "00:35:52",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 34,
+        "severity": "WARNING",
+        "timestamp": "00:35:52",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 36,
+        "severity": "WARNING",
+        "timestamp": "00:35:52",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 38,
+        "severity": "WARNING",
+        "timestamp": "00:35:52",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 40,
+        "severity": "WARNING",
+        "timestamp": "00:35:52",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 42,
+        "severity": "WARNING",
+        "timestamp": "00:35:52",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 44,
+        "severity": "WARNING",
+        "timestamp": "00:35:52",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 46,
+        "severity": "WARNING",
+        "timestamp": "00:35:52",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 48,
+        "severity": "WARNING",
+        "timestamp": "00:35:52",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 50,
+        "severity": "WARNING",
+        "timestamp": "00:35:53",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 52,
+        "severity": "WARNING",
+        "timestamp": "00:35:53",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 54,
+        "severity": "WARNING",
+        "timestamp": "00:35:53",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 56,
+        "severity": "WARNING",
+        "timestamp": "00:35:53",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 58,
+        "severity": "WARNING",
+        "timestamp": "00:35:53",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "Suspicious Traffic Spike",
+        "traffic_rate": 60,
+        "severity": "WARNING",
+        "timestamp": "00:35:53",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "10.226.18.149",
+        "attack_type": "DoS-Flood (Volume)",
+        "traffic_rate": 62,
+        "severity": "CRITICAL",
+        "timestamp": "00:35:53",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:54",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:35:57",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:36:00",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:36:03",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:36:06",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 5,
+        "severity": "INFO",
+        "timestamp": "00:36:09",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:36:12",
+        "acknowledged": false
+    },
+    {
+        "victim_ip": "10.226.18.227",
+        "source_ip": "Local Network",
+        "attack_type": "System Normal",
+        "traffic_rate": 1,
+        "severity": "INFO",
+        "timestamp": "00:36:15",
+        "acknowledged": false
+    }
+]
