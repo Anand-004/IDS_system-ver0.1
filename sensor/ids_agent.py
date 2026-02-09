@@ -13,7 +13,7 @@ from urllib.parse import unquote  # <--- CRITICAL for Web Attacks
 
 # ================= CONFIGURATION =================
 # 🔴 IMPORTANT: REPLACE '192.168.X.X' WITH YOUR SERVER'S REAL IP
-SERVER_IP = "10.226.18.227"  
+SERVER_IP = "192.x.x.x"  
 SERVER_URL = f"http://{SERVER_IP}:5000/api/alert" 
 
 # THRESHOLDS
